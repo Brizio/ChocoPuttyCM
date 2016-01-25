@@ -1,0 +1,9 @@
+## Note ChocoPakage PuttyCM 
+
+choco install PuttyCM -fdv -s $pwd
+
+C6BD5BB46A8410E33AAFD8043740776B886B77D5
+
+-c="4FBF5BD601B32845B091BFADBE54AF93C0BE8985" -t="sha1"
+-f="C:\Users\FABRI~1.MAZ\AppData\Local\Temp\chocolatey\PuttyCM\0.1\PuttyCMInstall.EXE"]
+Error - hashes do not match. Actual value was 'C6BD5BB46A8410E33AAFD8043740776B886B77D5'.
